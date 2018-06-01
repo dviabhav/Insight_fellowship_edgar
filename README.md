@@ -1,3 +1,6 @@
+Author- Vaibhav Dwivedi.
+School- Rutgers University.
+Department- Department of Physics and Astronomy.
 # EDGAR DATA READ
 
 ## Introduction
